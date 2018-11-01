@@ -1,0 +1,15 @@
+.jumbotron{box-shadow: 1px 1px 5px black;}
+nav {background-color: lightgray; background-image: linear-gradient(rgba(185, 13, 13, 0.7),rgba(170, 73, 8, 0.6), rgba(0, 0, 0, 0.7)), url("scratch_metal.jpg");}
+body {background-image: url("7K5xtD9.jpg");    background-attachment: fixed;background-position: center;background-repeat: no-repeat;background-size: cover; }
+.SmallSpacer {min-height: 2%;max-height: 15%;}
+.Fold{ max-height: 10em;}
+.Set-Of-Four {width: 18rem; min-height: 30rem;max-height: 30rem;}
+.carousel-text {text-shadow: 1px 1px 5px black;}
+.Force-Card-Bottom {margin-top:5px;}
+.card {box-shadow: 1px 1px 5px black;}
+.Red-Text {color:red;}
+.Green-Text {color: green;}
+.Max-Width-30 {max-width: 30%;}
+.Float-R {float: right;}
+.Orange-Text {color: orange;}
+.Opacity-50{opacity: 50%;} 
